@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\obj\Debug\net7.0\0250-parking.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\obj\Debug\net7.0\0250-parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\obj\Debug\net7.0\0250-parking.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\obj\Debug\net7.0\0250-parking.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\obj\Debug\net7.0\0250-parking.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\bin\Debug\net7.0\0250-parking.exe
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\bin\Debug\net7.0\0250-parking.deps.json
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\bin\Debug\net7.0\0250-parking.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\bin\Debug\net7.0\0250-parking.dll
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\bin\Debug\net7.0\0250-parking.pdb
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\obj\Debug\net7.0\0250-parking.dll
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\obj\Debug\net7.0\refint\0250-parking.dll
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\obj\Debug\net7.0\0250-parking.pdb
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\obj\Debug\net7.0\0250-parking.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\David\HTL\Programmieren\0250-parking\obj\Debug\net7.0\ref\0250-parking.dll
